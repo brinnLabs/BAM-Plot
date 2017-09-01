@@ -1,0 +1,4 @@
+ofxGui
+ofxSvg
+ofxUIUtils
+ofxXmlSettings
